@@ -8,7 +8,7 @@ Sass stands for Syntactically Awesome Stylesheets using concepts like variables,
 ```
 Step 1- If not installed, Download and install ruby. (https://rubyinstaller.org/)
 Step 2- Open terminal and install ruby (gem install sass)
-Step 3- Create folder structure (img,css,scss,index.html,readme...)
+Step 3- Create folder structure on terminal (img,css,scss,index.html,readme...)
 Step 4- Push to github.
 Step 5- On the terminal, type sass --watch scss:css.
 Step 6- In scss folder, add a file named main.scss/styles.scss.
