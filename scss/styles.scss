@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Defining Variables
 
 /* VARIABLES */
@@ -19,4 +20,27 @@ body {
         font-size: $font-size2;
         color: $text-color;
     }
+=======
+// Defining Variables
+
+/* VARIABLES */
+
+$primary-color: blue;
+$font-size1: 3.125em;
+$font-size2: 2.125em;
+$text-color: yellow;
+
+
+/* BASE STYLES */
+
+body {
+    background-color: $primary-color;
+    h1 {
+        font-size: 3.125em;
+    }
+    p {
+        font-size: $font-size2;
+        color: $text-color;
+    }
+>>>>>>> 90b91a22bb67f69f177048e26e4069fe05ba2710
 }

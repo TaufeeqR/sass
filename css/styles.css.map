@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
 "version": 3,
 "mappings": "AAEA,eAAe;AAQf,iBAAiB;AAEjB,IAAK;EACD,gBAAgB,EATJ,IAAI;EAUhB,OAAG;IACC,SAAS,EAAE,OAAO;EAEtB,MAAE;IACE,SAAS,EAZJ,OAAO;IAaZ,KAAK,EAZA,MAAM",
 "sources": ["../scss/styles.scss"],
 "names": [],
 "file": "styles.css"
+=======
+{
+"version": 3,
+"mappings": "AAEA,eAAe;AAQf,iBAAiB;AAEjB,IAAK;EACD,gBAAgB,EATJ,IAAI;EAUhB,OAAG;IACC,SAAS,EAAE,OAAO;EAEtB,MAAE;IACE,SAAS,EAZJ,OAAO;IAaZ,KAAK,EAZA,MAAM",
+"sources": ["../scss/styles.scss"],
+"names": [],
+"file": "styles.css"
+>>>>>>> 90b91a22bb67f69f177048e26e4069fe05ba2710
 }
