@@ -1,0 +1,16 @@
+/* BASE STYLES */
+
+body {
+    background-color: $secondary-color;
+    h1 {
+        font-size: 3.125em;
+        text-align: center;
+    }
+    p {
+        font-size: $font-size2;
+        color: $text-color;
+        text-align: center;
+        position: relative;
+        justify-content: center;
+    }
+}

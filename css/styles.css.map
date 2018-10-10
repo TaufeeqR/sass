@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 {
 "version": 3,
-"mappings": "AAEA,eAAe;AAQf,iBAAiB;AAEjB,IAAK;EACD,gBAAgB,EATJ,IAAI;EAUhB,OAAG;IACC,SAAS,EAAE,OAAO;EAEtB,MAAE;IACE,SAAS,EAZJ,OAAO;IAaZ,KAAK,EAZA,MAAM",
-"sources": ["../scss/styles.scss"],
+"mappings": "AAEA,eAAe;ACFf,iBAAiB;AAEjB,IAAK;EACD,gBAAgB,EDEF,UAAU;ECDxB,OAAG;IACC,SAAS,EAAE,OAAO;IAClB,UAAU,EAAE,MAAM;EAEtB,MAAE;IACE,SAAS,EDFJ,OAAO;ICGZ,KAAK,EDDA,OAAO;ICEZ,UAAU,EAAE,MAAM;IAClB,QAAQ,EAAE,QAAQ;IAClB,eAAe,EAAE,MAAM;;ACT/B,WAAY;EACR,SAAS,EFGA,MAAO;;AEApB,MAAO;EACH,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK",
+"sources": ["../scss/partials/_variables.scss","../scss/partials/_base.scss","../scss/partials/_components.scss"],
 "names": [],
 "file": "styles.css"
-=======
-{
-"version": 3,
-"mappings": "AAEA,eAAe;AAQf,iBAAiB;AAEjB,IAAK;EACD,gBAAgB,EATJ,IAAI;EAUhB,OAAG;IACC,SAAS,EAAE,OAAO;EAEtB,MAAE;IACE,SAAS,EAZJ,OAAO;IAaZ,KAAK,EAZA,MAAM",
-"sources": ["../scss/styles.scss"],
-"names": [],
-"file": "styles.css"
->>>>>>> 90b91a22bb67f69f177048e26e4069fe05ba2710
 }
