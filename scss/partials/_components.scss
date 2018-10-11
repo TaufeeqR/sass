@@ -12,9 +12,19 @@
 }
 
 .resorts img {
+    height: 250px;
+    width: 250px;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.resort img:hover {
     height: 400px;
     width: 600px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
+
 
 .tips img {
     height: 400px;
