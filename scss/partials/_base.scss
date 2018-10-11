@@ -6,19 +6,27 @@ html {
 body {
     background-color: white;
     text-align: center;
-    h1 {
+    h1 h2 {
         font-size: 3.125em;
         text-align: center;
+        color: white;
     }
     p {
         font-size: $font-size2;
         color: $text-color;
     }
+    ul {
+        list-style-type: none;
+        li {
+            list-style-type: none;
+        }
+    }
+    
 }
 
 a {
     &:link {
-        color: $text-color2;
+        color: $text-color3;
         text-decoration: none;
     }
 

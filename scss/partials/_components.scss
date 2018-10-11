@@ -3,7 +3,14 @@
 // Images
 
 .main-title {
-    font-size: $font-size3;
+    font-size: $font-size2;
+}
+
+.main-header {
+    background-image: url(../img/nature.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -1000px;
 }
 
 .arrow {
@@ -12,21 +19,29 @@
 }
 
 .resorts img {
-    height: 250px;
-    width: 250px;
+    height: 350px;
+    width: 350px;
     -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
     transition: width 2s, height 2s, transform 2s;
 }
 
-.resort img:hover {
-    height: 400px;
-    width: 600px;
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
+.resorts img:hover {
+    height: 500px;
+    width: 700px;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 
-
 .tips img {
-    height: 400px;
-    width: 600px;
+    height: 350px;
+    width: 350px;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.tips img:hover {
+    height: 500px;
+    width: 700px;
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
