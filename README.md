@@ -5,6 +5,12 @@ Introduction into Sass
 
 Sass stands for Syntactically Awesome Stylesheets using concepts like variables, mixins, and nesting into the CSS code we have already learnt. Sass boasts more features and abilities than any other CSS extension language out there. 
 
+#SASS PARTIALS
+Sass Partials are files that contain little pieces of CSS which helps you modularize your CSS and makes things esier to maintain. A partial is a SASS file named with a leading underscore. The underscore tells SASS that is a partial file and should not be generated as a CSS file.
+
+#SASS VARIABLES
+Variables allow us to store things such as colors, font stacks, or any CSS value that we think we might re-use using the $ symbol.
+
 #Steps...
 
 ```
@@ -18,5 +24,7 @@ Step 7- Link main.scss/styles.scss to the index.html file.
 Step 8- Save and push to github repo.
 
 ```
+
+
 
 #Live link --> https://taufeeqr.github.io/sass/index.html
