@@ -4,18 +4,24 @@ html {
 }
 
 body {
-    background-color: white;
     text-align: center;
-    h1 h2 {
-        font-size: 3.125em;
-        text-align: center;
-        color: white;
+    background-image: url(../img/maxresdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -450px;
+    h1 {
+        text-align: center; 
+        color: black;
+    }
+    h2, h3 {
+        font-size: 45px;
     }
     p {
-        font-size: $font-size2;
-        color: $text-color;
+        font-size: $font-size3;
+        color: black;
     }
-    ul {
+    ul, ol {
+        font-size: 20px;
         list-style-type: none;
         li {
             list-style-type: none;
@@ -26,12 +32,16 @@ body {
 
 a {
     &:link {
-        color: $text-color3;
+        color: darkviolet;
         text-decoration: none;
     }
 
     &:visited {
         color: $text-color3;
         text-decoration: none;
+    }
+
+    &:hover {
+        color: blue;
     }
 }
